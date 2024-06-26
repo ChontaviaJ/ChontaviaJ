@@ -4,4 +4,6 @@
 
 - <b>Netflix Recommendations</b>
   - [Netflix Recommendation System using Python](https://github.com/ChontaviaJ/Netflix_Recommendation)
+- <b>Credit Card</b>
+  - [Credit Card Clustering With Machine Learning](https://github.com/ChontaviaJ/CreditCard)
 
